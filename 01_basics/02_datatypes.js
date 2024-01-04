@@ -29,6 +29,6 @@ let state = null;
 // non-premitive datatypes
 // object 
 
-// typeof
+// typeof 
 console.log(typeof null); //object
 console.log(typeof undefined); //undefined
